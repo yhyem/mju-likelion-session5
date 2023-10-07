@@ -5,8 +5,6 @@
 
 메인페이지 구현 과제 😊
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df0c184-4bfd-4277-b6f0-07cfd88dfda0/Untitled.png)
-
 `Data.json` 파일 이용
 
 [왓챠피디아 - 영화, 책, TV 프로그램 추천 및 평가 서비스](https://pedia.watcha.com/ko-KR)
